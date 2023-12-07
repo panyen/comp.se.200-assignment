@@ -1,0 +1,23 @@
+{
+  "name": "comp.se.200-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panyen/comp.se.200-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panyen/comp.se.200-assignment/issues"
+  },
+  "homepage": "https://github.com/panyen/comp.se.200-assignment#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

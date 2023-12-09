@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/panyen/comp.se.200-assignment#readme",
   "devDependencies": {
+    "@babel/core": "^7.23.5",
+    "@babel/preset-env": "^7.23.5",
+    "babel-jest": "^29.7.0",
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "chai": "^4.3.10"
   }
 }

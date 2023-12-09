@@ -1,4 +1,4 @@
-import filter from '../filter';
+import filter from '../toolsWeUsed/filter';
 import { expect } from 'chai';
 
 describe('filter', () => {

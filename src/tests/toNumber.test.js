@@ -1,4 +1,4 @@
-import toNumber from '../toNumber';
+import toNumber from '../toolsWeUsed/toNumber';
 import { expect } from 'chai';
 
 describe('toNumber', () => {

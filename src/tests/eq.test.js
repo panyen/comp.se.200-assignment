@@ -1,4 +1,4 @@
-import eq from '../eq';
+import eq from '../toolsWeUsed/eq';
 import { expect } from 'chai';
 
 describe('eq', () => {

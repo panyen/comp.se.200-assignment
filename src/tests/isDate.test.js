@@ -1,4 +1,4 @@
-import isDate from '../isDate';
+import isDate from '../toolsWeUsed/isDate';
 import { expect } from 'chai';
 
 describe('isDate', () => {

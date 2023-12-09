@@ -1,4 +1,4 @@
-import add from '../add';
+import add from '../toolsWeUsed/add';
 import { expect } from 'chai';
 
 describe('add', () => {

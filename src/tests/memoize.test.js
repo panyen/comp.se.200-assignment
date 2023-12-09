@@ -1,4 +1,4 @@
-import memoize from '../memoize';
+import memoize from '../toolsWeUsed/memoize';
 import { expect } from 'chai';
 
 describe('memoize', () => {

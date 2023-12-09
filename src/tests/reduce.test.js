@@ -1,4 +1,4 @@
-import reduce from '../reduce';
+import reduce from '../toolsWeUsed/reduce';
 import { expect } from 'chai';
 
 describe('reduce', () => {

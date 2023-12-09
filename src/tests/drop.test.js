@@ -1,4 +1,4 @@
-import drop from '../drop';
+import drop from '../toolsWeUsed/drop';
 import { expect } from 'chai';
 
 describe('drop', () => {

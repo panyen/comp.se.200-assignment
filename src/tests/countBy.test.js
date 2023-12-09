@@ -1,4 +1,4 @@
-import countBy from '../countBy';
+import countBy from '../toolsWeUsed/countBy';
 import { expect } from 'chai';
 
 describe('countBy', () => {

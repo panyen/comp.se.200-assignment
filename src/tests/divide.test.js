@@ -1,4 +1,4 @@
-import divide from '../divide';
+import divide from '../toolsWeUsed/divide';
 import { expect } from 'chai';
 
 describe('divide', () => {

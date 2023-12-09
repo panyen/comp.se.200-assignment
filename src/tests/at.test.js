@@ -1,4 +1,4 @@
-import at from '../at';
+import at from '../toolsWeUsed/at';
 import { expect } from 'chai';
 
 describe('at', () => {

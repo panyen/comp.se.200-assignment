@@ -1,4 +1,4 @@
-import toString from '../toString';
+import toString from '../toolsWeUsed/toString';
 import { expect } from 'chai';
 
 describe('toString', () => {

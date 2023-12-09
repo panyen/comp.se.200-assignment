@@ -1,4 +1,4 @@
-import ceil from '../ceil';
+import ceil from '../toolsWeUsed/ceil';
 import { expect } from 'chai';
 
 describe('ceil', () => {

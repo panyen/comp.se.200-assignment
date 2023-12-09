@@ -1,4 +1,4 @@
-import defaultToAny from '../defaultToAny';
+import defaultToAny from '../toolsWeUsed/defaultToAny';
 import { expect } from 'chai';
 
 describe('defaultToAny', () => {

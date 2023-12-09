@@ -3,4 +3,7 @@ module.exports = {
   transform: {
     "^.+\\.js$": "babel-jest",
   },
+  coverageProvider: 'babel',
+  collectCoverage: true,
+  collectCoverageFrom: ['src/toolsWeUsed/*.js'], 
 };

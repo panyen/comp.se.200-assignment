@@ -1,4 +1,4 @@
-import map from '../map';
+import map from '../toolsWeUsed/map';
 import { expect } from 'chai';
 
 describe('map', () => {

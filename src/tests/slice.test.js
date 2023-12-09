@@ -1,4 +1,4 @@
-import slice from '../slice';
+import slice from '../toolsWeUsed/slice';
 import { expect } from 'chai';
 
 describe('slice', () => {

@@ -87,5 +87,14 @@ If you encounter any issues or have suggestions, please [create an issue](https:
 
 This project is licensed under the ISC License - see the `LICENSE.md` file for details.
 
+<img width="1680" alt="Screenshot 2023-12-11 at 02 53 16" src="https://github.com/panyen/comp.se.200-assignment/assets/138178316/ba0283ff-bd9b-485c-9ed6-04535dd4d1de">
+
+<img width="1680" alt="Screenshot 2023-12-11 at 02 54 13" src="https://github.com/panyen/comp.se.200-assignment/assets/138178316/8ccbe8eb-fa0f-4568-8539-950529167bbb">
+
+<img width="1529" alt="Screenshot 2023-12-11 at 03 12 06" src="https://github.com/panyen/comp.se.200-assignment/assets/138178316/4193bccd-403d-40ac-9137-d92a5add2c8a">
+
+
+
+
 
 

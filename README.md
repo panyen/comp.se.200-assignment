@@ -2,6 +2,7 @@
 
 [![Build Status](https://github.com/panyen/comp.se.200-assignment/workflows/Node.js%20CI/badge.svg)](https://github.com/panyen/comp.se.200-assignment/actions)
 
+
 **Authors: Phong A. Nguyen, Ezeobi Jeshurun**
 
 ## Description

@@ -8,6 +8,8 @@
 
 This repository contains JavaScript functions that have been tested and reported using Jest and NYC for code coverage.
 
+<img width="915" alt="Screenshot 2023-12-11 at 03 12 15" src="https://github.com/panyen/comp.se.200-assignment/assets/138178316/7e39d878-b364-45c9-a2a8-439b3b2103db">
+
 ## Prerequisites
 
 - Node.js (Version 16.x or 18.x)

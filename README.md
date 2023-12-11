@@ -58,4 +58,34 @@ This project is configured for Continuous Integration using GitHub Actions. The 
 
 ### Checkout Code:
 
+* Checks out the code from the repository.
+
+### Setup Node.js:
+
+* Sets up Node.js according to the specified version.
+
+### Install Dependencies and Run Tests:
+
+* Installs project dependencies using `npm install`.
+* Runs tests using `npm run test-coverage`.
+
+### Coveralls:
+
+* Integrates with Coveralls to display code coverage information.
+
+### Additional Steps:
+
+* Uses npm ci for a clean installation.
+* Builds the project (if applicable).
+* Runs npm test.
+
+## Issues
+
+If you encounter any issues or have suggestions, please [create an issue](https://github.com/panyen/comp.se.200-assignment/issues/new).
+
+## License
+
+This project is licensed under the ISC License - see the `LICENSE.md` file for details.
+
+
 

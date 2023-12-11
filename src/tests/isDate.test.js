@@ -35,7 +35,7 @@ describe('isDate', () => {
     expect(isDate(false)).to.equal(false);
   });
 
-  it('should return false for other types (additional case)', () => {
+  it('should return false for other types', () => {
     expect(isDate(Symbol('test'))).to.equal(false);
   });
 });

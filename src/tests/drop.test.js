@@ -34,7 +34,7 @@ describe('drop', () => {
     expect(drop(['a', 'b', 'c'], 2.5)).to.deep.equal(['c']);
   });
 
-  it('should drop one element from the beginning by default (additional case)', () => {
+  it('should drop one element from the beginning by default', () => {
     expect(drop(['a', 'b', 'c'])).to.deep.equal(['b', 'c']);
   });
 });

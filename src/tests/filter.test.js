@@ -35,7 +35,7 @@ describe('filter', () => {
     expect(filter(sparseArray, isTruthy)).to.deep.equal(expectedOutput);
   });
 
-  it('should return the original array if all elements pass the predicate (additional case)', () => {
+  it('should return the original array if all elements pass the predicate', () => {
     const isPositive = (value) => value > 0;
     const inputArray = [1, 2, 3];
     expect(filter(inputArray, isPositive)).to.deep.equal(inputArray);

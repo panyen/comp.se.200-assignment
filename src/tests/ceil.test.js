@@ -42,7 +42,7 @@ describe('ceil', () => {
     expect(ceil(9876, -10)).to.equal(10000000000);
   });
 
-  it('should round up to the nearest integer by default (additional case)', () => {
+  it('should round up to the nearest integer by default', () => {
     expect(ceil(4.006)).to.equal(5);
   });
 });

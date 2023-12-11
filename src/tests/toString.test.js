@@ -2,12 +2,12 @@ import toString from '../toolsWeUsed/toString';
 import { expect } from 'chai';
 
 describe('toString', () => {
-  it('should return strigyfied null for null', () => {
+  it('should return "null" for null', () => {
     expect(toString(null)).to.equal('null');
   });
 
-  it('should return undefined as undefined', () => {
-    expect(toString(undefined)).to.deep.equal("undefined");
+  it('should return undefined as "undefined"', () => {
+    expect(toString(undefined)).to.equal("undefined");
   });
 
   it('should convert strings to the same string', () => {
@@ -47,7 +47,7 @@ describe('toString', () => {
     expect(toString(objectValue)).to.equal('[object Object]');
   });
 
-  it('should handle an empty string as a special case (additional case)', () => {
+  it('should handle an empty string as a special case', () => {
     expect(toString('')).to.equal('');
   });
 });

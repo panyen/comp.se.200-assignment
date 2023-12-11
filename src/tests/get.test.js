@@ -43,7 +43,7 @@ describe('get', () => {
     expect(get(object, 'a[0].b[2].c')).to.equal(3);
   });
 
-  it('should return the default value if the object is undefined (additional case)', () => {
+  it('should return the default value if the object is undefined', () => {
     expect(get(undefined, 'a.b.c', 'default')).to.equal('default');
   });
 });

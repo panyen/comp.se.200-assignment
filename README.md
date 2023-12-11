@@ -27,6 +27,15 @@ npm install
 To run the tests, use the following command:
 
 ```bash
+npm run test
+
+```
+
+## Running Tests with Code Coverage
+
+To run the Jest tests with code coverage using NYC, use the following command:
+
+```bash
 npm run test-coverage
 
 ```
@@ -35,4 +44,18 @@ This will generate a coverage report in the `coverage` directory.
 ## Continuous Integration(CI) Build
 
 This project is configured for Continuous Integration using GitHub Actions. The CI build ensures that the project builds and passes tests automatically.
+
+### Workflow Details
+
+* Workflow Name: Node.js CI
+* Trigger: On push and pull requests
+
+### Matrix
+
+* Node.js versions: 16.x, 18.x
+
+## Steps
+
+### Checkout Code:
+
 
